@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    background-color: black;
+    box-sizing: border-box;
+}
+.aside {
+    float: left;
+    background-color: gray;
+    height: 100vh;
+    width: 60px;
+    text-align: center;
+}
+.aside img {
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+}
+.profil {
+    border-radius: 90px;
+    margin: 5px;
+}
+svg {
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+}
+.img {float: center;
+    height: 100vh;
+    width: 600px;
+    margin-left: 10px;
+    background-image: url(/image/paysage.webp);
+    background-size: cover;
+}
+.connexion{
+    float: right;
+    height: 50vh;
+    width: 500px;
+   color: white;
+   
+   margin: 50px;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
+.inser{
+    margin: 10px;
+    height: 50px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.219);
+    border: 1px solid white;
+}
+.inser p{
+    margin: 10px;
+}
+.login{float: right;
+    text-align: center;
+    background-color: gray;
+    color: black;
+    height: 20px;
+    width: 120px;
+    margin: 30px;
+}
+.login p{
+    background-color: gray;
+}
